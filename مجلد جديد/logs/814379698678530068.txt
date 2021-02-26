@@ -1,0 +1,28 @@
+test bot for lucifer 2#4554: 
+.Lucifer#0001: !r hi
+test bot for lucifer 2#4554: Staff **.Lucifer#0001**: hi
+.Lucifer#0001: !r تفضل
+test bot for lucifer 2#4554: Staff **.Lucifer#0001**: تفضل
+test bot for lucifer 2#4554: **HZU6#1717**: 
+giphy_3.gif
+https://cdn.discordapp.com/attachments/814379688318468127/814379800294064128/giphy_3.gif
+.Lucifer#0001: !block 293409981904977921
+www.luci.gq#7672: Blocked <@293409981904977921> (id `293409981904977921`) from modmail indefinitely
+test bot for lucifer 2#4554: 
+.Lucifer#0001: !unblock 293409981904977921
+www.luci.gq#7672: Unblocked <@293409981904977921> (id 293409981904977921) from modmail
+test bot for lucifer 2#4554: `✔` Unblocked user
+test bot for lucifer 2#4554: **HZU6#1717**: 3
+test bot for lucifer 2#4554: **HZU6#1717**: 3
+test bot for lucifer 2#4554: **HZU6#1717**: 3
+test bot for lucifer 2#4554: **HZU6#1717**: 3
+test bot for lucifer 2#4554: **HZU6#1717**: 3
+3
+test bot for lucifer 2#4554: **HZU6#1717**: 3
+.Lucifer#0001: !unblock 293409981904977921
+www.luci.gq#7672: User is not blocked
+test bot for lucifer 2#4554: `✔` Unblocked user
+.Lucifer#0001: !block 293409981904977921
+www.luci.gq#7672: Blocked <@293409981904977921> (id `293409981904977921`) from modmail indefinitely
+test bot for lucifer 2#4554: 
+.Lucifer#0001: !close

@@ -1,0 +1,25 @@
+test bot for lucifer 2#4554: New ModMail
+—————————————————
+**Account Information**
+
+Creation Date: Mar 15, 2019 5:11 PM
+Joined Server: Aug 9, 2020 1:16 PM
+
+**.Lucifer#0001**: sa
+.Lucifer#0001: hi
+.Lucifer#0001: !hi
+.Lucifer#0001: !r hi
+test bot for lucifer 2#4554: Staff **.Lucifer#0001**: hi
+test bot for lucifer 2#4554: **.Lucifer#0001**: 
+ban.png
+https://cdn.discordapp.com/attachments/814163148978389064/814330857737289728/ban.png
+test bot for lucifer 2#4554: **.Lucifer#0001**: 
+video0.mp4
+https://cdn.discordapp.com/attachments/814163148978389064/814331008178585620/video0.mp4
+.Lucifer#0001: !id
+.Lucifer#0001: !RE hi
+test bot for lucifer 2#4554: Staff **.Lucifer#0001**: Hello! How can we help you?
+.Lucifer#0001: !block 556117178601177088
+www.luci.gq#7672: Blocked <@556117178601177088> (id `556117178601177088`) from modmail indefinitely
+test bot for lucifer 2#4554: 
+.Lucifer#0001: !close
