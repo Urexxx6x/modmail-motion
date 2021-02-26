@@ -1,6 +1,6 @@
 module.exports = {
-  token: 'ODE0MTM3NDA4OTQ4OTI4NTMy.YDZejA.SaP4nMjHJKu7K9IkuE3bz52Pozw',
-  databaseToken: 'mongodb+srv://discordbot:rTBUB6Gis2ndGgmU@discordbot.9usmv.mongodb.net/discordbot?retryWrites=true&w=majority',
+  token: '',
+  databaseToken: '',
 
   mainGuild: '741963009626472468',
   logChannel: '813115920598695977',
