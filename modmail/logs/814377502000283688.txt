@@ -1,4 +1,0 @@
-test bot for lucifer 2#4554: 
-.Lucifer#0001: `sas`
-.Lucifer#0001: close
-.Lucifer#0001: !close
